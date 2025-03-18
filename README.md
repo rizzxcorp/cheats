@@ -31,6 +31,6 @@
 
 # 🐾 Contact & Support
 Got questions or suggestions? Reach out to us!
-- 📧 Email: support@cheatweb.com
-- 🌐 Website: [CheatWeb](https://cheatweb.com)
+- 📧 Email: rizzregedit@gmail.com
+- 🌐 Website: [CheatWeb](rizzxiters.com)
 
