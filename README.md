@@ -1,6 +1,6 @@
 # 🐍 CheatWeb - Unleash the Beast 🐻
 
-![GitHub Banner](https://raw.githubusercontent.com/username/cheatweb/main/github_banner.jpg)
+![GitHub Banner]([https://raw.githubusercontent.com/username/cheatweb/main/github_banner.jpg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ExZTk5ZTVoZTkzOWY4ZjNxcHB5cXlvcjRtaGl6Zm1waDEwNjk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdK39B5eUXA6Jj08aF/giphy.gif))
 
 # Hello World!, I'm the Creator of CheatWeb 👋🏼
 🐾 Currently building the ultimate cheat-selling platform!<br>
