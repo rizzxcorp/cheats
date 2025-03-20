@@ -58,59 +58,51 @@
             <?php include 'ios.php'; ?>
         </div>
         <div id="annualProducts" class="hidden p-6 bg-black/50 rounded-lg shadow-xl">
-            <?php include 'annual.php'; ?>
+            <?php include 'emu.php'; ?>
+        </div>
+    </div>
+</section>
+<section id="why-us" class="py-20 bg-black/40 backdrop-blur-md">
+    <div class="max-w-7xl mx-auto px-6">
+        <h2 class="text-4xl font-bold text-center text-purple-300 mb-12">Mengapa Memilih Kami</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-lock text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">Pembayaran Aman</h3>
+                <p class="text-gray-300">Didukung oleh berbagai metode pembayaran terpercaya dengan enkripsi tingkat lanjut untuk memastikan keamanan transaksi Anda.</p>
+            </div>
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-headset text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">Best Support</h3>
+                <p class="text-gray-300">Tim dukungan profesional siap membantu Anda 24/7, memastikan pengalaman pengguna yang lancar dan bebas masalah.</p>
+            </div>
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-sync-alt text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">Pembaruan Teratur</h3>
+                <p class="text-gray-300">Kami secara rutin memperbarui produk kami agar selalu kompatibel dengan pembaruan game terbaru dan performa tetap optimal.</p>
+            </div>
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-shield-virus text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">99% Aman & Bebas Banned</h3>
+                <p class="text-gray-300">Teknologi anti-cheat mutakhir menjamin keamanan akun Anda dari deteksi sistem dan larangan permainan.</p>
+            </div>
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-cogs text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">Kustomisasi Tingkat Lanjut</h3>
+                <p class="text-gray-300">Atur cheat sesuai keinginan Anda dengan opsi konfigurasi yang mudah dan fleksibel.</p>
+            </div>
+            <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
+                <i class="fas fa-desktop text-5xl text-purple-400 mb-4"></i>
+                <h3 class="text-2xl font-semibold text-white">Kompatibilitas Luas</h3>
+                <p class="text-gray-300">Produk kami mendukung berbagai perangkat untuk kenyamanan Anda.</p>
+            </div>
         </div>
     </div>
 </section>
 
-    <section id="why-us" class="py-20 bg-black/40 backdrop-blur-md">
-        <div class="max-w-7xl mx-auto px-6">
-            <h2 class="text-4xl font-bold text-center text-purple-300 mb-12">Mengapa Memilih Kami</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
-                    <i class="fas fa-shield-alt text-5xl text-purple-400 mb-4"></i>
-                    <h3 class="text-2xl font-semibold text-white">Keamanan Terjamin</h3>
-                    <p class="text-gray-300">Sistem pembayaran dan data pribadi yang aman.</p>
-                </div>
-                <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
-                    <i class="fas fa-gamepad text-5xl text-purple-400 mb-4"></i>
-                    <h3 class="text-2xl font-semibold text-white">Koleksi Terlengkap</h3>
-                    <p class="text-gray-300">Ribuan game premium dari berbagai genre.</p>
-                </div>
-                <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
-                    <i class="fas fa-cloud text-5xl text-purple-400 mb-4"></i>
-                    <h3 class="text-2xl font-semibold text-white">Cloud Gaming</h3>
-                    <p class="text-gray-300">Main game tanpa perlu download dan install.</p>
-                </div>
-                <div class="text-center bg-purple-900/20 p-8 rounded-xl shadow-xl backdrop-blur-md hover:scale-105 hover:bg-purple-900/30 transition duration-300">
-                    <i class="fas fa-headset text-5xl text-purple-400 mb-4"></i>
-                    <h3 class="text-2xl font-semibold text-white">Dukungan 24/7</h3>
-                    <p class="text-gray-300">Tim support siap membantu kapan saja.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 </body>
 
-<section id="team" class="py-20 bg-gradient-to-br from-gray-900 to-purple-900">
-    <div class="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-4xl font-bold text-center text-purple-100 mb-12">Our Team</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <div class="bg-white/10 p-6 rounded-lg text-center backdrop-blur-sm shadow-lg hover:shadow-xl transition duration-300">
-                <img src="https://creatie.ai/ai/api/search-image?query=professional headshot of asian male executive&width=200&height=200" alt="CEO" class="w-32 h-32 rounded-full mx-auto mb-4 object-cover" />
-                <h3 class="text-xl font-semibold text-white mb-2">David Chen</h3>
-                <p class="text-purple-300 mb-2">CEO & Founder</p>
-                <p class="text-gray-300">Visioner teknologi dengan 15 tahun pengalaman di industri game</p>
-            </div>
-            <div class="bg-white/10 p-6 rounded-lg text-center backdrop-blur-sm shadow-lg hover:shadow-xl transition duration-300">
-                <img src="https://creatie.ai/ai/api/search-image?query=professional headshot of asian female tech leader&width=200&height=200" alt="CTO" class="w-32 h-32 rounded-full mx-auto mb-4 object-cover" />
-                <h3 class="text-xl font-semibold text-white mb-2">Sarah Kim</h3>
-                <p class="text-purple-300 mb-2">Chief Technology Officer</p>
-                <p class="text-gray-300">Ahli teknologi cloud gaming dan infrastruktur jaringan</p>
-            </div>
-        </div>
-    </div>
-</section>
+<?php include 'team.php'; ?>
 
 <section id="showcase" class="py-20 bg-gradient-to-br from-gray-900 to-purple-900">
     <div class="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -118,9 +110,7 @@
         <div class="glide">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides">
-                    <li class="glide__slide"><img src="https://creatie.ai/ai/api/search-image?query=epic fantasy RPG game screenshot&width=800&height=400" alt="Game 1" class="w-full rounded-lg shadow-lg" /></li>
-                    <li class="glide__slide"><img src="https://creatie.ai/ai/api/search-image?query=futuristic racing game screenshot&width=800&height=400" alt="Game 2" class="w-full rounded-lg shadow-lg" /></li>
-                    <li class="glide__slide"><img src="https://creatie.ai/ai/api/search-image?query=strategic battle game screenshot&width=800&height=400" alt="Game 3" class="w-full rounded-lg shadow-lg" /></li>
+                    <li class="glide__slide"><img src="image/feedback4.png" alt="Game 1" class="w-full rounded-lg shadow-lg" /></li>
                 </ul>
             </div>
             <div class="glide__bullets" data-glide-el="controls[nav]">
@@ -158,15 +148,15 @@
                         <div class="space-y-4">
                             <p class="flex items-center text-gray-400">
                                 <i class="fas fa-map-marker-alt w-6 text-purple-400"></i>
-                                Jl. Sudirman No. 123, Jakarta
+                                Jl.Mampang Pancoran Mas 
                             </p>
                             <p class="flex items-center text-gray-400">
                                 <i class="fas fa-phone w-6 text-purple-400"></i>
-                                +62 123 456 7890
+                                +62 822-5899-7082
                             </p>
                             <p class="flex items-center text-gray-400">
                                 <i class="fas fa-envelope w-6 text-purple-400"></i>
-                                info@gamestore.com
+                                rizxcorp@gmail.com
                             </p>
                         </div>
                     </div>
@@ -178,8 +168,8 @@
         <div class="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-4 gap-8 mb-8">
                 <div>
-                    <img src="https://ai-public.creatie.ai/gen_page/logo_placeholder.png" alt="Logo" class="h-8 mb-4" />
-                    <p class="text-gray-400">Platform game terbaik untuk semua perangkat dengan koleksi lengkap dan pengalaman bermain yang optimal.</p>
+                    <img src="image/logo.png" alt="Logo" class="h-8 mb-4" />
+                    <p class="text-gray-400">RXC TEAM ADALAH SEBUAH PERUSAHAN YANG DIDIRIKAN SEJAK 2022 DENGAN KUALITAS NOMOR 1 DI PASAR NYA</p>
                 </div>
                 <div>
                     <h4 class="text-purple-300 font-semibold mb-4">Links</h4>
@@ -206,7 +196,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-800 pt-8 text-center">
-                <p class="text-gray-400">© 2024 Game Store. All rights reserved.</p>
+                <p class="text-gray-400">© 2025 RXC TEAM. Semua hak dilindungi undang-undang.</p>
             </div>
         </div>
     </footer>
